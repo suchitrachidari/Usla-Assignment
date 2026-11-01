@@ -1,0 +1,5 @@
+KMeans,Crime_Severity,Police_Response_Time_Minutes,Resolved,Suspect_Arrested,Nearby_CCTV_Cameras,Num_Police_Stations_Nearby,Public_Complaints,Road_Accidents_Reported,Traffic_Congestion_Level,Traffic_Avg_Speed_KMH,Weather_Visibility_KM,Weather_Rainfall_mm,Driver_Rating,Ride_Surge_Pricing_Factor
+0,5.572,30.484,0.711,0.0,4.533,2.022,4.484,2.054,5.002,32.565,5.34,13.364,3.037,1.444
+1,5.448,29.748,1.0,1.0,4.46,2.023,4.649,2.058,4.775,33.345,5.128,12.038,3.121,1.191
+2,5.765,31.87,1.0,1.0,4.463,2.026,4.084,1.883,5.194,30.161,5.433,14.313,2.778,1.858
+3,5.378,30.501,0.0,1.0,4.531,2.002,4.42,1.927,5.019,32.527,5.281,13.167,2.942,1.413
